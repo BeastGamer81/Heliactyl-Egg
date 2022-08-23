@@ -1,4 +1,4 @@
-# Dashactyl-Egg
+# Heliactyl-Egg
 The egg used to easily run Heliactyl on Pterodactyl Panel
 
 # Contribution
