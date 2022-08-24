@@ -21,9 +21,6 @@ else
         echo "[Heliactyl Egg] Heliactyl files are downloaded. For reverse proxy(Nginx) setup please visit the docs: https://gitlab.com/heliactyl/panel/-/blob/master/README.md";
         exit 0;
         ;;
-then
-        exit 0;
-        ;;
     "N"|"n")
         exit 0;
         ;;
