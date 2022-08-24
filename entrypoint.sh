@@ -18,7 +18,7 @@ else
 
         npm i
 
-        echo "Heliactyl installed. Please open settings.json and follow the guide to fill out the details: https://docs.votion.dev/docs/Dashactyl/configuration";
+        echo "[Heliactyl Egg] Heliactyl files are downloaded. For reverse proxy(Nginx) setup please visit the docs: https://gitlab.com/heliactyl/panel/-/blob/master/README.md";
         exit 0;
         ;;
     "N"|"n")
