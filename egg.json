@@ -10,7 +10,7 @@
     "description": "A Heliactyl Egg, maintained by DarkNight#8588",
     "features": null,
     "docker_images": {
-        "quay.io/dark-development/heliactyl-egg": "quay.io/darkdevelopment/heliactyl-egg"
+        "Heliactyl Egg": "quay.io/darkdevelopment/heliactyl-egg"
     },
     "file_denylist": [],
     "startup": ".\/entrypoint.sh",
